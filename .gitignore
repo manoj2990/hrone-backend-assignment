@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+sample_data/
+.dotenv
+.env.example
+DATA_MODEL
+openapi
